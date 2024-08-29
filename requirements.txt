@@ -21,3 +21,4 @@ flask
 flask_wtf
 joblib
 dash
+object-detection
