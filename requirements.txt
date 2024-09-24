@@ -22,3 +22,4 @@ flask_wtf
 joblib
 dash
 object-detection
+opencv-python-headless
