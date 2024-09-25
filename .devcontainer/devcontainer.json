@@ -8,12 +8,13 @@
 			"ms-python.python",
 			"ms-toolsai.jupyter",
 			"analytic-signal.preview-pdf",
+			"mechatroner.rainbow-csv",
 			"grapecity.gc-excelviewer",
 			"ms-python.vscode-pylance",
 			"ms-python.pylint",
 			"ms-python.autopep8",
 			"github.copilot",
-			"github.copilot-chat",
+			"github.copilot-chat"
 		  ]
 		}
 	  },
