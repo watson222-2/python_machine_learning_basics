@@ -1,23 +1,22 @@
 {
     "name": "Python 3.11 with Jupyter and PDF Preview",
     "image": "mcr.microsoft.com/devcontainers/python:3.11",
-
-	"customizations": {    
-		"vscode": {
-		  "extensions": [
-			"ms-python.python",
-			"ms-toolsai.jupyter",
-			"analytic-signal.preview-pdf",
-			"mechatroner.rainbow-csv",
-			"grapecity.gc-excelviewer",
-			"ms-python.vscode-pylance",
-			"ms-python.pylint",
-			"ms-python.autopep8",
-			"github.copilot",
-			"github.copilot-chat"
-		  ]
-		}
-	  },
-
-	"postCreateCommand": "pip install -r requirements.txt"
+	"workspaceFolder": "/workspace",
+    "customizations": {    
+        "vscode": {
+            "extensions": [
+                "ms-python.python",
+                "ms-toolsai.jupyter",
+                "analytic-signal.preview-pdf",
+                "mechatroner.rainbow-csv",
+                "grapecity.gc-excelviewer",
+                "ms-python.vscode-pylance",
+                "ms-python.pylint",
+                "ms-python.autopep8",
+                "github.copilot",
+                "github.copilot-chat"
+            ]
+        }
+    },
+    "postCreateCommand": "pip install -r requirements.txt"
 }
