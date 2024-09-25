@@ -60,7 +60,7 @@ Logistic Regression is a classification algorithm that is used to predict the pr
 CART is a powerful algorithm used for both classification and regression tasks. It creates a tree-like model of decisions based on input features.
 
 - **Introduction:** Understanding decision trees and their applications.
-- **Mathematical Foundations:** Gini impurity, information gain, and tree pruning techniques.
+- **Mathematical Foundations:** Gini impurity (CT), Variance reduction (RT) and tree pruning techniques.
 - **Implementation:** Building a decision tree from scratch using Python.
 - **Practical Applications:** Using CART for classification and regression tasks.
 - **Exercises:** Exercises to build and evaluate decision trees.
