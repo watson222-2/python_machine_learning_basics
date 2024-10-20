@@ -48,7 +48,7 @@ Linear Regression is one of the simplest and most commonly used algorithms in ma
 
 ### Logistic Regression
 
-Logistic Regression is a classification algorithm that is used to predict the probability of a binary outcome based on one or more predictor variables.
+Logistic Regression is a method used for classification. In a binary case it is used to predict the probability of a binary outcome based on one or more predictor variables.
 
 - **Introduction:** Understanding the difference between linear and logistic regression.
 - **Mathematical Foundations:** Deriving the sigmoid function and the cost function for logistic regression.
