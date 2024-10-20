@@ -45,6 +45,8 @@ Linear Regression is one of the simplest and most commonly used algorithms in ma
 - **Practical Applications:** Applying linear regression to predict housing prices, sales forecasting, etc.
 - **Exercises:** Practice problems to solidify your understanding.
 
+- **See also:** https://www.tutorialspoint.com/machine_learning/machine_learning_linear_regression.htm
+
 ### Logistic Regression
 
 Logistic Regression is a classification algorithm that is used to predict the probability of a binary outcome based on one or more predictor variables.
@@ -54,6 +56,8 @@ Logistic Regression is a classification algorithm that is used to predict the pr
 - **Implementation:** Python code examples to implement logistic regression from scratch.
 - **Practical Applications:** Applying logistic regression to classification tasks.
 - **Exercises:** Hands-on exercises to practice logistic regression.
+
+- **See also:** https://www.tutorialspoint.com/machine_learning_with_python/classification_algorithms_logistic_regression.htm
 
 ### Classification and Regression Trees (CART)
 
@@ -65,6 +69,8 @@ CART is a powerful algorithm used for both classification and regression tasks. 
 - **Practical Applications:** Using CART for classification and regression tasks.
 - **Exercises:** Exercises to build and evaluate decision trees.
 
+- **See also:** https://www.tutorialspoint.com/machine_learning/machine_learning_decision_tree_algorithm.htm
+
 ### Random Forest
 
 Random Forest is an ensemble learning method that combines multiple decision trees to improve accuracy and prevent overfitting.
@@ -74,6 +80,8 @@ Random Forest is an ensemble learning method that combines multiple decision tre
 - **Implementation:** Implementing random forests using Python's `scikit-learn` library.
 - **Practical Applications:** Applying random forests to classification and regression tasks.
 - **Exercises:** Practice problems to explore the power of random forests.
+
+- **See also:** https://www.tutorialspoint.com/machine_learning/machine_learning_random_forest_classification.htm
 
 ### K-Nearest Neighbors (KNN)
 
@@ -85,6 +93,8 @@ KNN is a simple, non-parametric algorithm used for both classification and regre
 - **Practical Applications:** Applying KNN to classification and regression tasks.
 - **Exercises:** Exercises to practice and fine-tune KNN models.
 
+- **See also:** https://www.tutorialspoint.com/machine_learning/machine_learning_knn_nearest_neighbors.htm
+
 ### K-Means Clustering
 
 K-Means is an unsupervised learning algorithm used to partition a dataset into distinct clusters based on feature similarity.
@@ -95,12 +105,16 @@ K-Means is an unsupervised learning algorithm used to partition a dataset into d
 - **Practical Applications:** Applying K-Means to clustering tasks.
 - **Exercises:** Practice problems to explore different clustering scenarios.
 
+- **See also:** https://www.tutorialspoint.com/machine_learning_with_python/clustering_algorithms_k_means_algorithm.htm
+
 ### Neural Networks.
 - **Introduction:** Overview of neural networks and their biological inspiration.
 - **Mathematical Foundations:** Understanding perceptrons, activation functions, backpropagation, and gradient descent.
 - **Implementation:** Building simple neural networks from scratch and using frameworks like TensorFlow or PyTorch.
 - **Practical Applications:** Applying neural networks classification and regression tasks.
 - **Exercises:** Exercises to build, train, and evaluate neural networks.
+
+- **See also:** https://www.tutorialspoint.com/machine_learning/machine_learning_artificial_neural_networks.htm
 
 ## Requirements
 
