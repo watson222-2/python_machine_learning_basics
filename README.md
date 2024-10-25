@@ -37,11 +37,10 @@ To follow along with this course, you will need a GitHub account and knowledge a
 
 ## Installation
 
-**Fork the repository:**
+**Fork the following repository into your GitHub account:**
 
-```bash
-https://github.com/mario-gellrich-zhaw/python_machine_learning.git
-```
+https://github.com/mario-gellrich-zhaw/python_machine_learning_basics
+
 Create a new GitHub Codespaces environment based on the fork.
 
 ## Machine Learning Algorithms
@@ -56,7 +55,7 @@ Linear Regression is one of the simplest and most commonly used algorithms in ma
 - **Practical Applications:** Applying linear regression to predict housing prices, sales forecasting, etc.
 - **Exercises:** Practice problems to solidify your understanding.
 
-- **Mathematical Foundations:** https://realpython.com/linear-regression-in-python
+- **Mathematical Foundations:** Martin, P. (2022). Linear regression: An introduction to statistical models.
 - **In scikit-learn:** https://scikit-learn.org/stable/modules/linear_model.html
 
 ### Logistic Regression
@@ -69,7 +68,7 @@ Logistic Regression is a method used for classification. In a binary case it is 
 - **Practical Applications:** Applying logistic regression to classification tasks.
 - **Exercises:** Hands-on exercises to practice logistic regression.
 
-- **Mathematical Foundations:** https://realpython.com/logistic-regression-python
+- **Mathematical Foundations:** Li, H. (2023). Machine Learning Methods. Springer Nature.
 - **In scikit-learn:** https://scikit-learn.org/stable/modules/linear_model.html#logistic-regression
 
 ### Classification and Regression Trees (CART)
@@ -82,7 +81,7 @@ CART is a powerful algorithm used for both classification and regression tasks. 
 - **Practical Applications:** Using CART for classification and regression tasks.
 - **Exercises:** Exercises to build and evaluate decision trees.
 
-- **Mathematical Foundations:** See slides in class
+- **Mathematical Foundations:** Li, H. (2023). Machine Learning Methods. Springer Nature.
 - **In scikit-learn:** https://scikit-learn.org/stable/modules/tree.html
 
 ### Random Forest
@@ -95,7 +94,7 @@ Random Forest is an ensemble learning method that combines multiple decision tre
 - **Practical Applications:** Applying random forests to classification and regression tasks.
 - **Exercises:** Practice problems to explore the power of random forests.
 
-- **Mathematical Foundations:** See slides in class
+- **Mathematical Foundations:** Li, H. (2023). Machine Learning Methods. Springer Nature.
 - **In scikit-learn:** https://scikit-learn.org/stable/modules/ensemble.html
 
 ### K-Nearest Neighbors (KNN)
@@ -108,7 +107,7 @@ KNN is a simple, non-parametric algorithm used for both classification and regre
 - **Practical Applications:** Applying KNN to classification and regression tasks.
 - **Exercises:** Exercises to practice and fine-tune KNN models.
 
-- **Mathematical Foundations:** https://realpython.com/knn-python/
+- **Mathematical Foundations:** Li, H. (2023). Machine Learning Methods. Springer Nature.
 - **In scikit-learn:** https://scikit-learn.org/stable/modules/neighbors.html
 
 ### K-Means Clustering
@@ -121,7 +120,7 @@ K-Means is an unsupervised learning algorithm used to partition a dataset into d
 - **Practical Applications:** Applying K-Means to clustering tasks.
 - **Exercises:** Practice problems to explore different clustering scenarios.
 
-- **Mathematical Foundations:** https://realpython.com/k-means-clustering-python
+- **Mathematical Foundations:** Li, H. (2023). Machine Learning Methods. Springer Nature.
 - **In scikit-learn:** https://scikit-learn.org/stable/modules/clustering.html#k-means
 
 ### Neural Networks.
@@ -131,5 +130,5 @@ K-Means is an unsupervised learning algorithm used to partition a dataset into d
 - **Practical Applications:** Applying neural networks classification and regression tasks.
 - **Exercises:** Exercises to build, train, and evaluate neural networks.
 
-- **Mathematical Foundations:** https://realpython.com/python-ai-neural-network
+- **Mathematical Foundations:** Li, H. (2023). Machine Learning Methods. Springer Nature.
 - **In scikit-learn:** https://scikit-learn.org/stable/modules/neural_networks_supervised.html
