@@ -6,7 +6,7 @@ Welcome to the **Machine Learning Basics Course**! This course is designed to pr
 
 1. [Introduction](#introduction)
 2. [Course Structure](#course-structure)
-3. [Modules](#modules)
+3. [Machine Learning Algorithms](#algorithms)
    - [Linear Regression](#linear-regression)
    - [Logistic Regression](#logistic-regression)
    - [Classification and Regression Trees (CART)](#cart)
@@ -24,7 +24,7 @@ This course is designed for beginners who are new to machine learning. It will w
 
 ## Course Structure
 
-Each module in the course follows a consistent structure:
+Each explanation of Machine Learning (ML) algorithms follows a consistent structure:
 
 - **Introduction:** A brief overview of the algorithm, including its purpose and use cases.
 - **Mathematical Foundations:** The key mathematical concepts and equations behind the algorithm.
