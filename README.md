@@ -6,7 +6,7 @@ Welcome to the **Machine Learning Basics Course**! This course is designed to pr
 
 1. [Introduction](#introduction)
 2. [Course Structure](#course-structure)
-3. [Machine Learning Algorithms](#algorithms)
+3. [Machine Learning Algorithms](#machine-learning-algorithms)
    - [Linear Regression](#linear-regression)
    - [Logistic Regression](#logistic-regression)
    - [Classification and Regression Trees (CART)](#cart)
@@ -32,7 +32,7 @@ Each explanation of Machine Learning (ML) algorithms follows a consistent struct
 - **Practical Applications:** How to apply the algorithm to real-world datasets.
 - **Exercises:** Hands-on exercises to reinforce the concepts learned.
 
-## Modules
+## Machine Learning Algorithms
 
 ### Linear Regression
 
